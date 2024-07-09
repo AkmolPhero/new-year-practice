@@ -91,3 +91,32 @@ header {
     list-style-type: none;
 
 }
+
+/* my plans section styles */
+.my-plans {
+    display: flex;
+    padding-left: 210px;
+}
+
+.my-plans-heading {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.plans {
+    padding-right: 80px;
+}
+
+.plans h4,
+p {
+    text-align: center;
+}
+
+.plans p {
+    color: #737272;
+}
+
+.plans img {
+    padding-left: 10px;
+}
